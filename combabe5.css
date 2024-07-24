@@ -1,0 +1,53 @@
+.bg{
+    background-color: rgb(200, 0, 255);
+}
+.fn{
+    color: rgb(255, 200, 0);
+}
+.bgg{
+    background-color: blueviolet;
+}
+.fnn{
+    color: black;
+
+   
+}
+.img-2 {
+    width: 250px;
+    border-radius: 10px;
+}
+/*  */
+.bggg{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    transform: scale(-50%);
+}
+.img-3{
+    width: 300px;
+}
+.bgggg{
+    background-image: url(https://img.freepik.com/free-vector/gradient-black-background-with-wavy-lines_23-2149151738.jpg?size=626&ext=jpg&ga=GA1.1.2116175301.1719273600&semt=ais_user);
+    background-size: cover;
+}
+.tw{
+    align-items: center;
+    color: aliceblue;
+}
+table{
+    align-items: center;
+    border: 1;
+    width: 70%;
+    color: aliceblue;
+}
+h2{
+    color: pink;
+}
+h1{
+    color: pink;
+}
+ol{
+    color: aliceblue;
+}
+
+
